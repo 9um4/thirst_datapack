@@ -1,0 +1,10 @@
+{
+	"condition": "minecraft:entity_scores",
+	"entity": "this",
+	"scores": {
+		"moist_rate": {
+			"max": 72000,
+			"min": 63001
+		}
+	}
+}

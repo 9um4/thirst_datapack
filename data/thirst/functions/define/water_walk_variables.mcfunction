@@ -1,0 +1,3 @@
+scoreboard objectives add water_walk minecraft.custom:minecraft.walk_on_water_one_cm
+scoreboard objectives add under_walk minecraft.custom:minecraft.walk_under_water_one_cm
+scoreboard objectives add is_water_walk dummy
