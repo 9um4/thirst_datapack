@@ -1,1 +1,0 @@
-execute as @a at @s if predicate thirst:moist_1 run title @s actionbar [{"text":"player"},{"text":"수분 : ■"}]
