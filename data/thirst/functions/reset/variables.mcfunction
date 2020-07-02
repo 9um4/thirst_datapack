@@ -1,0 +1,2 @@
+execute as @a if score @s walk = system zero run scoreboard players set @s is_walk 0
+execute as @a if score @s water_walk = system zero if score @s uner_walk = system zero run scoreboard players set @s is_water_walk 0
