@@ -2,8 +2,6 @@
 	"condition": "minecraft:entity_scores",
 	"entity": "this",
 	"scores": {
-		"moist_rate": {
-			"max": 0
-		}
+		"moist_rate": 0
 	}
 }
