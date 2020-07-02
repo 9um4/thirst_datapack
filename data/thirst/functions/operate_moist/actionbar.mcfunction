@@ -18,4 +18,4 @@ execute as @a at @s if predicate thirst:moist_17 run title @s actionbar [{"text"
 execute as @a at @s if predicate thirst:moist_18 run title @s actionbar [{"text":"player :"},{"selector":"@s"},{"text":"수분 : ■■■■■■■■■□"}]
 execute as @a at @s if predicate thirst:moist_19 run title @s actionbar [{"text":"player :"},{"selector":"@s"},{"text":"수분 : ■■■■■■■■■▣"}]
 execute as @a at @s if predicate thirst:moist_20 run title @s actionbar [{"text":"player :"},{"selector":"@s"},{"text":"수분 : ■■■■■■■■■■"}]
-execute as @a at @s if predicate thirst:thirst run title @s actionbar [{"text":"player :"},{"selector":"@s"},{"text":"수분 :           "}]
+execute as @a at @s if predicate thirst:thirst run title @s actionbar [{"text":"player :"},{"selector":"@s"},{"text":"수분 : □□□□□□□□□□"}]
