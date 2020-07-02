@@ -1,0 +1,1 @@
+execute as @a at @s if predicate thirst:thirst run scoreboard players set @s moist_rate 180000
