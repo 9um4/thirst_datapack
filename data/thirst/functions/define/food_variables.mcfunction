@@ -25,7 +25,7 @@ scoreboard objectives add apple minecraft.used:minecraft.apple
 scoreboard objectives add golden_apple minecraft.used:minecraft.golden_apple
 scoreboard objectives add enchant_apple minecraft.used:minecraft.enchanted_golden_apple
 scoreboard objectives add melon minecraft.used:minecraft.melon_slice
-scoreboard objectives add chorus minecraft.used:minecraft.popped_chorus_fruit
+scoreboard objectives add chorus minecraft.used:minecraft.chorus_fruit
 scoreboard objectives add berries minecraft.used:minecraft.sweet_berries
 scoreboard objectives add bread minecraft.used:minecraft.bread
 scoreboard objectives add cookie minecraft.used:minecraft.cookie
